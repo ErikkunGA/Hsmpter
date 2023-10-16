@@ -1,6 +1,7 @@
 *{background-color: cornflowerblue;
 }
 h1 {
+    color: darkorange;
     display: flex;
     position: fixed;
     top: auto;
