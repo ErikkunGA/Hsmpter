@@ -1,9 +1,33 @@
-h1{ padding-top: 20px;
+*{
+    background-color: rgb(129, 190, 218);
+    margin: 0;
+    padding: 0;
 
 }
 h1 {
+    background-color: black;
+    text-shadow: 0.3mm 0.3mm 0.3mm rgb(0, 0, 0);
+    font-size: 30px;
     color: darkorange;
-    display: flex;
-    position: fixed;
-    top: auto;
+    padding-left: 10px;
+    display: inline-flex;
+    align-items: center;
+}
+div{
+    background-color: black;
+    
+}
+.logo{
+    background-color: black;
+
+    padding-left: 50px;
+    width: 40px;
+}
+.txt{
+    font-size: 200px;
+}
+.menu{
+    background-color: black;
+    width: 30px;
+    padding-left: 15px;
 }
