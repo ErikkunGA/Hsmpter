@@ -5,29 +5,36 @@
 
 }
 h1 {
-    background-color: black;
+    background-color:  rgb(41, 41, 41);
     text-shadow: 0.3mm 0.3mm 0.3mm rgb(0, 0, 0);
     font-size: 30px;
     color: darkorange;
-    padding-left: 10px;
+    padding-left: 1%;
     display: inline-flex;
     align-items: center;
 }
-div{
-    background-color: black;
+#top{
+    background-color: rgb(41, 41, 41);
     
 }
 .logo{
-    background-color: black;
+    background-color: rgb(41, 41, 41);
 
-    padding-left: 50px;
+    padding-left: 3%;
     width: 40px;
 }
 .txt{
     font-size: 200px;
 }
 .menu{
-    background-color: black;
+    background-color:  rgb(41, 41, 41);
     width: 30px;
-    padding-left: 15px;
+    padding-left: 1%;
+}
+.search{
+    display: inline-flex;
+    width: 300px;
+    background-color:  rgb(41, 41, 41);
+    padding-left: 19%;
+    align-items: center;
 }
