@@ -4,6 +4,8 @@
     padding: 0;
 
 }
+            /* barra */
+
 h1 {
     background-color:  rgb(41, 41, 41);
     text-shadow: 0.3mm 0.3mm 0.3mm rgb(0, 0, 0);
@@ -15,7 +17,7 @@ h1 {
 }
 #top{
     background-color: rgb(41, 41, 41);
-    
+    position: fixed;
 }
 .logo{
     background-color: rgb(41, 41, 41);
