@@ -3,9 +3,8 @@
     margin: 0;
     padding: 0;
 
+    /* barra */ 
 }
-            /* barra */
-
 h1 {
     background-color:  rgb(41, 41, 41);
     text-shadow: 0.3mm 0.3mm 0.3mm rgb(0, 0, 0);
@@ -13,14 +12,15 @@ h1 {
     color: darkorange;
     padding-left: 1%;
     display: inline-flex;
-    align-items: center;
+    
 }
 #top{
     background-color: rgb(41, 41, 41);
+    position: static;
+    
 }
 .logo{
     background-color: rgb(41, 41, 41);
-
     padding-left: 3%;
     width: 40px;
 }
@@ -38,4 +38,23 @@ h1 {
     background-color:  rgb(41, 41, 41);
     padding-left: 19%;
     align-items: center;
+}
+    /* videos tsukihime */
+.vid-1{
+    width: 300px;
+    padding-top: 50px;
+    padding-left: 30px;
+    display: inline-flex;
+}
+.asd{
+    display: inline-flex;
+}
+.tsu-title{
+    padding-left: 90px;
+}
+.vid-2{
+    width: 300px;
+   
+    padding-left: 30px;
+    display: inline-flex;
 }
